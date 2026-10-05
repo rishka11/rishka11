@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
+  <title id="title">Rishika Sahu</title>
+  <desc id="desc">Aspiring Product Manager. CS undergraduate at SRMIST.</desc>
+  <defs>
+    <text id="name" x="0" y="0" font-family="Georgia, 'Times New Roman', serif" font-size="132" font-style="italic" textLength="1172" lengthAdjust="spacingAndGlyphs">RISHIKA SAHU</text>
+  </defs>
+  <rect width="1400" height="360" fill="#faf8f4" />
+  <text x="64" y="52" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#60685e">COMPUTER SCIENCE / SRMIST</text>
+  <text x="1336" y="52" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#60685e">www.rishikasahu.space</text>
+  <g transform="translate(64 215)">
+    <g transform="skewX(-42) scale(1 0.48)" fill="#d5cbe5"><use href="#name" /></g>
+    <use href="#name" fill="#0a3023" />
+  </g>
+  <path d="M64 248H1336" stroke="#d6d8cf" />
+  <rect y="280" width="1400" height="80" fill="#173f2f" />
+  <text x="64" y="329" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#faf8f4">Product research</text>
+  <circle cx="274" cy="321" r="3" fill="#f8c9ad" />
+  <text x="303" y="329" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#faf8f4">Prototyping</text>
+  <circle cx="449" cy="321" r="3" fill="#f8c9ad" />
+  <text x="478" y="329" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#faf8f4">AI workflows</text>
+  <text x="1336" y="326" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#ded4f1">ASPIRING PRODUCT MANAGER</text>
+</svg>
